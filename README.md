@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**Ragini-Roy7/Ragini-Roy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# 💫 About Me:
+# 💫 About Me:
 🔭 I’m currently working on:<br>Building mini and major projects using React, Next.js, and Express.js to strengthen my MERN skills.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, React.js, Next.js, Redux Toolkit, and exploring Web3 concepts.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, creative frontend designs, and full-stack applications.<br><br>💬 Ask me about:<br>Frontend development, responsive UI/UX design, and MERN stack basics.<br><br>⚡ Fun fact:<br>I believe every bug teaches you something new — I call them “hidden features”.
 
 
@@ -27,10 +19,3 @@ Here are some ideas to get you started:
 [![](https://visitcount.itsvg.in/api?id=Ragini-Roy7&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
