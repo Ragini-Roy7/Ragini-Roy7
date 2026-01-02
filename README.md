@@ -1,5 +1,16 @@
-# 💫 About Me:
-🔭 I’m currently working on:<br>Building mini  projects using React to strengthen my frontend  skills.<br><br>🌱 I’m currently learning:<br>Advanced JavaScript, React.js and exploring real world problem solving by continously contributing in open source projects in hacktoberfest 2025.<br><br>🤝 I’m looking to collaborate on:<br>Open-source projects, creative frontend designs, and full-stack applications.<br><br>💬 Ask me about:<br>Frontend development, responsive UI/UX design, and MERN stack basics.<br><br>⚡ Fun fact:<br>I believe every bug teaches you something new — I call them “hidden features”.
+About Me
+Frontend Developer | React Enthusiast | Open-Source Contributor
+I’m a passionate frontend developer focused on building clean, scalable, and user-centric web applications. I enjoy turning ideas into interactive experiences using modern JavaScript and React.
+🔭 Currently working on:
+Building real-world mini projects and components in React to strengthen core frontend concepts and best practices.
+🌱 Currently learning:
+Advanced JavaScript patterns, React ecosystem, and real-world problem solving through active open-source contributions (Hacktoberfest 2025).
+🤝 Open to collaborate on:
+Open-source projects, frontend-heavy applications, UI/UX-focused designs, and MERN-stack based products.
+💬 Ask me about:
+React.js, frontend fundamentals, responsive design, UI/UX thinking, and getting started with the MERN stack.
+I believe learning is never constant, it keeps on going!
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/ragini-roy-56231b25a) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/u/Hot_Director_5059/s/32ntOAztBD) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://linkedin.com/in/ragini-roy-56231b25a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:raginicodes@gmail.com) 
 # 💻 Tech Stack:
