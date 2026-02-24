@@ -37,7 +37,9 @@ Git | GitHub | IntelliJ IDEA | VS Code
 **Frontend (Past Experience):**  
 HTML | CSS | JavaScript | React  
 
----
+## 🐍 Contribution Snake
+
+![Snake animation](https://raw.githubusercontent.com/Ragini-Roy7/Ragini-Roy7/output/github-snake-dark.svg)
 
 ## 📊 GitHub Stats
 
