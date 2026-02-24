@@ -22,7 +22,8 @@ I believe learning is never constant, it keeps on going!
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Ragini-Roy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ragini-Roy7&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-Roy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-Roy7&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Java+Developer;DSA+Learner;Consistency+%3E+Motivation)](https://git.io/typing-svg)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
