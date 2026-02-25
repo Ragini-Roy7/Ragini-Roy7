@@ -10,7 +10,7 @@ I believe strong fundamentals create strong engineers.
 ## 🚀 Current Focus
 
 - 📚 Practicing DSA daily in Java  
-- 🧠 Improving logic-building & time complexity understanding  
+- 🧠 Improving logic-building & optimized algo understanding
 - 🔁 Maintaining coding consistency  
 - ✍️ Documenting my journey publicly  
 
@@ -34,7 +34,7 @@ Java | Python | C
 **Tools:**  
 Git | GitHub | IntelliJ IDEA | VS Code  
 
-**Frontend (Past Experience):**  
+**Frontend (Experience):**  
 HTML | CSS | JavaScript | React  
 
 ## 🐍 Contribution Snake
