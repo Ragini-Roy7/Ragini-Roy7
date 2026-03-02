@@ -35,7 +35,7 @@ Opportunities make builders
 Java | Python | C  
 
 **Tools:**  
-Git | GitHub | IntelliJ IDEA | VS Code  
+Git | GitHub | IntelliJ IDEA | VS Code | Postman 
 
 **Frontend (Experience):**  
 HTML | CSS | JavaScript | React  
