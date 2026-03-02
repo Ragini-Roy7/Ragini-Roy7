@@ -5,6 +5,8 @@
 I’m currently focused on mastering **Data Structures & Algorithms using Java** and building strong problem-solving foundations.  
 I believe strong fundamentals create strong engineers.
 
+Opportunities make builders 
+
 
 ---
 
