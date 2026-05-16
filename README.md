@@ -67,7 +67,7 @@ Staying consistent.
 
 ## 📬 Connect With Me
 
-📧 raginicodes@gmail.com  
+Email:raginicodes@gmail.com  
 
 X: https://x.com/RAGINI135250772
 
