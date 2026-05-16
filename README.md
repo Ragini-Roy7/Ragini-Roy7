@@ -68,7 +68,15 @@ Staying consistent.
 ## 📬 Connect With Me
 
 📧 raginicodes@gmail.com  
+
+X: https://x.com/RAGINI135250772
+
+GFG-https://www.geeksforgeeks.org/profile/raginij1c
+
+Leetcode- https://leetcode.com/u/Ragini_Roy/
+
+
 💼 LinkedIn: https://www.linkedin.com/in/ragini-roy-56231b25a/
-🐦 X: https://x.com/RAGINI135250772
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
