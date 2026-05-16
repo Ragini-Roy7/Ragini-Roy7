@@ -75,8 +75,7 @@ GFG-https://www.geeksforgeeks.org/profile/raginij1c
 
 Leetcode- https://leetcode.com/u/Ragini_Roy/
 
-
-💼 LinkedIn: https://www.linkedin.com/in/ragini-roy-56231b25a/
+LinkedIn: https://www.linkedin.com/in/ragini-roy-56231b25a/
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
