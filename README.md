@@ -10,7 +10,7 @@ Opportunities make builders
 
 ---
 
-## 🚀 Current Focus
+##  Current Focus
 
 - 📚 Practicing DSA daily in Java  
 - 🧠 Improving logic-building & optimized algo understanding
@@ -29,7 +29,7 @@ Opportunities make builders
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Languages:**  
 Java | Python | C  
