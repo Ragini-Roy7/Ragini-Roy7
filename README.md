@@ -35,7 +35,7 @@ I believe strong fundamentals create strong engineers.
 Java | Python | C  
 
 **Tools:**  
-Git | GitHub | IntelliJ IDEA | VS Code | Postman 
+Git | GitHub | IntelliJ IDEA | VS Code | Postman | Supabase 
 
 **Frontend (Experience):**  
 HTML | CSS | JavaScript | React  
