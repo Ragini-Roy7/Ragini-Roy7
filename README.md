@@ -24,10 +24,10 @@ Building intelligent software with Java, Python and AI/ML while contributing to 
 
 - 🎓 MCA (Artificial Intelligence & Machine Learning)
 - 💻 Open Source Contributor
-- 🤖 Learning Machine Learning & Deep Learning
+-  Learning Machine Learning & Deep Learning
 - 🌱 Currently mastering Data Structures & Algorithms using Java
-- 🧠 Interested in Computer Vision, Generative AI & MLOps
-- 🚀 Building projects that solve real-world problems
+-  Interested in Computer Vision, Generative AI & MLOps
+-  Building projects that solve real-world problems
 
 ---
 
