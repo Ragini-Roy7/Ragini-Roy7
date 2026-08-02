@@ -38,8 +38,8 @@ I enjoy contributing to open-source projects through feature development, docume
 | Program | Contributions |
 |---------|---------------|
 | GirlScript Summer of Code | Documentation, Feature Enhancements, Accessibility, AI/ML Resources |
-| Hacktoberfest | Merged Pull Requests |
-| GitHub Open Source | Bug Fixes, Documentation, AI/ML, UI Improvements |
+| Hacktoberfest | Merged Pull Requests |  Bug Fixes, Documentation, AI/ML, UI Improvements |
+
 
 ### Highlights
 
