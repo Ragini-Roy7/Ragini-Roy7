@@ -111,13 +111,7 @@ Matplotlib • Exploratory Data Analysis
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ragini-Roy7&theme=tokyonight&no-frame=true&margin-w=15"/>
-
-</p>
 
 ---
 
