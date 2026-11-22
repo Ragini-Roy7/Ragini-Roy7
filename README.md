@@ -1,171 +1,114 @@
-# 👋 Hi, I'm Ragini Roy
+<div align="center">
 
-<p align="center">
-  <h3 align="center">
-    Machine Learning Enthusiast • Open Source Contributor • Aspiring ML Engineer
-  </h3>
-</p>
+# Ragini Roy
 
-<p align="center">
-Building intelligent software with Java, Python and AI/ML while contributing to open source.
-</p>
+### AI Engineer | Applied AI | Open Source Contributor
 
-<p align="center">
-<img src="https://img.shields.io/badge/Open%20Source-GSSoC-blue?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Machine-Learning-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-Developer-red?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Python-AI-yellow?style=for-the-badge"/>
-<img src="https://komarev.com/ghpvc/?username=Ragini-Roy7&style=for-the-badge"/>
-</p>
+Building LLM-powered applications, tool-calling agents and workflow automation. MCA (AI & ML) student, currently an AI Full Stack Intern.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Google ADK](https://img.shields.io/badge/Google_ADK-4285F4?style=flat-square&logo=google&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+
+</div>
 
 ---
 
-# 👩‍💻 About Me
+## Highlights
 
-- 🎓 MCA (Artificial Intelligence & Machine Learning)
-- 💻 Open Source Contributor
--  Learning Machine Learning & Deep Learning
-- 🌱 Currently mastering Data Structures & Algorithms using Java
--  Interested in Computer Vision, Generative AI & MLOps
--  Building projects that solve real-world problems
-
----
-
-# 🌍 Open Source Contributions
-
-I enjoy contributing to open-source projects through feature development, documentation, accessibility improvements, and bug fixes.
-
-| Program | Contributions |
-|---------|---------------|
-| GirlScript Summer of Code | Documentation, Feature Enhancements, Accessibility, AI/ML Resources |
-| Hacktoberfest | Merged Pull Requests |  Bug Fixes, Documentation, AI/ML, UI Improvements |
-
-
-### Highlights
-
-- 🚀 Multiple merged Pull Requests
-- 📖 Documentation Enhancements
-- 🐛 Bug Fixes
-- 🎨 Accessibility Improvements
-- 🤖 Machine Learning Notebooks
-- 📊 Data Visualization
-- 💡 Feature Enhancements
-
-> *Open source is where I learn, collaborate, and create impact.*
+| | |
+|---|---|
+| **GirlScript Summer of Code 2026** | Ranked **#27** on the Hybrid leaderboard, Top 30 Hybrid contributors, achievement score 526 <!-- VERIFY: add leaderboard link/snapshot date --> |
+| **Internship** | AI Full Stack Intern, Asvix Digital LLP (Sept 2026 – present) |
+| **Open source** | Merged contributions across GSSoC and Hacktoberfest, listed with PR links below |
+| **Focus** | AI agents, LLM integrations, RAG, workflow automation, Python backends |
 
 ---
 
-# 🛠 Tech Stack
+## Experience
 
-<p align="center">
+**AI Full Stack Intern — Asvix Digital LLP** · Sept 2026 – Present
+- Work on Aroha, an AI chatbot built around IDSP (Integrated Disease Surveillance Programme) data. Python and Flask backend, Gemini for generation, Pinecone for embedding-based retrieval.
+- Evaluate agent responses against IDSP source data using structured test cases, and refine prompts based on the results.
+- Write API documentation for the Aroha backend.
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,react,nodejs,mongodb,mysql,git,github,vscode,idea,docker,tensorflow,pytorch,opencv"/>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-### 🩺 Breast Cancer Detection
-Machine Learning Classification using Python, Pandas and Scikit-Learn.
+**Virtual EduSkills Internship — TensorFlow / Machine Learning**
+- Hands-on exposure to TensorFlow, ML and deep learning fundamentals, and ML workflows. Learning-stage experience, not production work.
 
 ---
 
-### 🏫 College Management System
-Java Swing + MySQL desktop application.
+## Open Source
+
+| Repository | Contribution | Area | PR | Status |
+|---|---|---|---|---|
+| RatLoopz/sahidawa-india | <!-- VERIFY: one-line description of what #3943 changed --> | <!-- e.g. feature / fix --> | [#3943](https://github.com/RatLoopz/sahidawa-india/pull/3943) | Merged <!-- VERIFY --> |
+| AditthyaSS/iloveAgents | DSA Progress Analyzer | Feature | [#788](https://github.com/AditthyaSS/iloveAgents/pull/788) | Merged <!-- VERIFY --> |
+| HerStack-org/website | Website contribution (React) | Frontend | [#174](https://github.com/HerStack-org/website/pull/174) | Merged <!-- VERIFY --> |
 
 ---
 
-### 🧠 Learning Disability Detection
-React • Node.js • Machine Learning
+## Featured Projects
+
+### 1. AI Issue Triage Agent
+**Problem:** Triaging bug reports by hand is slow; an agent can gather evidence before a human looks.
+An agent that investigates GitHub issues, gathers evidence and proposes fixes. It is a multi-step tool-calling workflow, not a single-prompt chatbot.
+**Stack:** Python · Google ADK · Gemini · GitHub API
+**Repo:** [ai-issue-triage-agent](https://github.com/Ragini-Roy7/ai-issue-triage-agent) <!-- VERIFY: expand repo README so these claims are visible in code -->
+
+### 2. Aroha / IDSP AI Chatbot
+**Problem:** Answer public-health questions grounded in IDSP surveillance data rather than model memory.
+Embedding-based retrieval over IDSP data with Pinecone, Gemini for answer generation, served through a Flask API. My part: backend contributions and systematic response evaluation against source data.
+**Stack:** Python · Flask · Gemini · Pinecone · sentence-transformers
+**Repo:** <!-- add link if public; otherwise note "company project" -->
+
+### 3. AI Ticket Automation (n8n + Gemini)
+**Problem:** Support teams lose time sorting tickets and spotting urgent ones.
+Tickets arrive via webhook or n8n form, are normalized to one schema, and Gemini classifies category, priority and sentiment with structured output. An AI agent decides when to escalate (critical priority, payment or security concerns, explicit request for a human) by calling an escalation sub-workflow.
+**Stack:** n8n · Gemini · AI Agent · Structured Output Parser · Webhooks
+[Repo](https://github.com/Ragini-Roy7/n8n-ai-ticket-automation) · [Demo video](https://drive.google.com/file/d/1zW_8S4_wXaqwLDbCVjsjNOwx3-RUk-7p/view?usp=sharing)
+
+### 4. SmartlyLabs AI Agents (ML Guide Coach, SystemMind, DevPilot)
+**Problem:** Learners need guided, feedback-driven practice for ML and system design.
+Three agents built and iterated across five versions, evaluated with six users. <!-- VERIFY wording -->
+**Repo:** [AI-ML-Guide-Coach-Agent](https://github.com/Ragini-Roy7/AI-ML-Guide-Coach-Agent) · [Portfolio](https://infra.smartlylabs.ai/profile/cmrujnenf002y04lbz7sapym1)
+
+### 5. BrainBridge
+**Problem:** <!-- VERIFY: one line on what BrainBridge does -->
+Hackathon team project (TypeScript). I led the team and built and tested the REST API endpoints, with input validation, JSON responses and error handling.
+**Repo:** [BrainBridge](https://github.com/Ragini-Roy7/BrainBridge)
+
+Earlier ML and software work: [Student Academic Performance Evaluation](https://github.com/Ragini-Roy7/Student_Academic_Performance_Evaluation) (scikit-learn), [Breast Cancer EDA](https://github.com/Ragini-Roy7/Breast_Cancer_Detection_Data_Visualization), College Management System (Java Swing + MySQL).
 
 ---
 
-### 📈 Titanic Data Visualization
-Matplotlib • Exploratory Data Analysis
+## Technical Skills
+
+| Level | Skills |
+|---|---|
+| **Built with** | Python · Gemini · Google ADK · n8n · Flask · REST APIs · Pinecone · Prompt engineering |
+| **Working knowledge** | Java · SQL · JavaScript · MongoDB · MySQL · scikit-learn · Webhooks · Firebase Auth · JWT |
+| **Learning** | TensorFlow · deep learning |
 
 ---
 
-# 🐍 Contribution Snake
+## GitHub Activity
 
 ![Snake animation](https://raw.githubusercontent.com/Ragini-Roy7/Ragini-Roy7/output/github-snake-dark.svg)
 
----
+![Stats](https://github-readme-stats.vercel.app/api?username=Ragini-Roy7&show_icons=true&theme=tokyonight) ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-Roy7&layout=compact&theme=tokyonight)
 
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ragini-Roy7&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ragini-Roy7&layout=compact&theme=tokyonight"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Ragini-Roy7&theme=tokyonight"/>
-
-</p>
+![Streak](https://streak-stats.demolab.com/?user=Ragini-Roy7&theme=tokyonight)
 
 ---
 
+## Coding Profiles
 
-
----
-
-# 💻 Coding Profiles
-
-<p align="center">
-
-<a href="https://leetcode.com/u/Ragini_Roy/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/profile/raginij1c">
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
-</a>
-
-<a href="https://www.kaggle.com/ragini2002">
-<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
-</a>
-
-</p>
+[LeetCode](https://leetcode.com/u/Ragini_Roy/) · [GeeksforGeeks](https://www.geeksforgeeks.org/profile/raginij1c) · [Kaggle](https://www.kaggle.com/ragini2002) · [HackerRank](https://www.hackerrank.com/profile/raginicodes)
 
 ---
 
-# 🌐 Connect With Me
+## Contact
 
-<p align="center">
-
-<a href="mailto:raginicodes@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ragini-roy-56231b25a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://x.com/RAGINI135250772">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x"/>
-</a>
-
-<a href="https://github.com/Ragini-Roy7">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-</p>
-
----
-
-# 💬 Developer Philosophy
-
-> **"Consistency compounds. Every commit is an investment in the engineer I'm becoming."**
-
-Learning in public • Building consistently • Growing every day
-
----
-
-⭐ *If you like my work, consider starring a repository or connecting with me!*
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[Email](mailto:raginicodes@gmail.com) · [LinkedIn](https://www.linkedin.com/in/ragini-roy-56231b25a/) · [Portfolio](https://infra.smartlylabs.ai/profile/cmrujnenf002y04lbz7sapym1)
