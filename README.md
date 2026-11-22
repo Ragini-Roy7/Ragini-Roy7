@@ -40,7 +40,8 @@ Agents built, deployed and iterated on SmartlyLabs' agent infrastructure. Profil
 **My role:** Designed the agent, prompt modules and evaluation criteria; deployed and iterated it. <!-- VERIFY role wording -->
 **Stack:** OpenAI GPT · Prompt engineering · SmartlyLabs runtime · Telegram · hooks · web search
 **Repo:** [github.com/Ragini-Roy7/AI-ML-Guide-Coach-Agent](https://github.com/Ragini-Roy7/AI-ML-Guide-Coach-Agent)
-**Demos:** [Interview mode video](https://drive.google.com/file/d/1aT9jTqvuScVEFfDuHvelB7BZyQBKhWa1/view?usp=sharing) · [Full demo folder](https://drive.google.com/drive/folders/1ph07UItSgmnK8v4QmBW-lhMVEMaK6Nhc?usp=sharing)
+**Demos:** [Interview mode video](https://drive.google.com/file/d/1aT9jTqvuScVEFfDuHvelB7BZyQBKhWa1/view?usp=sharing) 
+· [Full demo folder](https://drive.google.com/drive/folders/1ph07UItSgmnK8v4QmBW-lhMVEMaK6Nhc?usp=sharing)
 
 ### 2. SystemMind — AI Computer Science Systems Reasoning Agent
 Traces a problem through algorithms, memory, operating systems, networks, databases and hardware so learners see how systems work beneath abstractions. Deployed on SmartlyLabs (research category, v1).
